@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "CRAZY BEAUTIFUL NIGHT",
+  "base_artist": "MY FIRST STORY",
+  "createdAt": "2025-12-01T15:28:34.944346Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CRAZY BEAUTIFUL NIGHT",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/01_CRAZY_BEAUTIFUL_NIGHT_MY_FIRST_STORY.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "CRAZY BEAUTIFUL NIGHT",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/02_CRAZY_BEAUTIFUL_NIGHT_MY_FIRST_STORY.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "crazy beautiful night 〜www.jpopsingles.eu」",
+      "artist": "my first story",
+      "has_synced": false,
+      "path": "select/03_crazy_beautiful_night_〜www.jpopsingles.eu」_my_first_story.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CRAZY BEAUTIFUL NIGHT Audio",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/pl_01_CRAZY_BEAUTIFUL_NIGHT_Audio_MY_FIRST_STORY.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "CRAZY BEAUTIFUL NIGHT",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/pl_02_CRAZY_BEAUTIFUL_NIGHT_MY_FIRST_STORY.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "CRAZY BEAUTIFUL NIGHT",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/pl_03_CRAZY_BEAUTIFUL_NIGHT_MY_FIRST_STORY.txt"
+    }
+  ]
+}
